@@ -1,6 +1,6 @@
 # Spamalot
 
-Classify spam using the Spambase dataset. Python module `scikit-learn`
+Classify spam using the Spambase dataset with the Python module `scikit-learn`.
 
 ## Description
 
