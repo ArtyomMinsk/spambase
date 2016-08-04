@@ -1,4 +1,4 @@
-# Plaid Coat
+# Spamalot
 
 Classify spam using the Spambase dataset. Python module `scikit-learn`
 
