@@ -18,7 +18,8 @@ The motivation of this project is to:
 
 ## Important links
 
-HTML documentation: http://scikit-learn.org
+- HTML documentation: http://scikit-learn.org
+- Jupyter Notebook: https://github.com/ArtyomMinsk/spambase/blob/master/spam_classifier.ipynb
 
 ## Special Instructions
 
